@@ -1,0 +1,16 @@
+.jumbotron {
+  padding-top: 7rem;
+  background-color: #7fffd4;
+}
+#about {
+  background-color: #a2d9ff;
+}
+#aktivitas {
+  background-color: #7fffd4;
+}
+#contact {
+  background-color: #a2d9ff;
+}
+section {
+  padding-top: 5rem;
+}
